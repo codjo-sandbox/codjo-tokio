@@ -59,7 +59,7 @@
             <artifactId>looks</artifactId>
         </dependency>
         <dependency>
-            <groupId>uispec4j</groupId>
+            <groupId>org.uispec4j</groupId>
             <artifactId>uispec4j</artifactId>
             <scope>test</scope>
         </dependency>
